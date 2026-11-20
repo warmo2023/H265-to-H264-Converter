@@ -1,0 +1,9 @@
+__pycache__/
+build/
+dist/
+_ffmpeg_extract/
+_upx/
+*.spec
+*.zip
+ffmpeg.exe
+
